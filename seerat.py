@@ -1,6 +1,6 @@
-#===== SCrIPT modified by Rowedy 
+#===== SCrIPT modified by seerat
 
-#===== TELIGERM : ROW3DY
+#===== TELIGERM : Seerat
 #---------------------[ IMPORT ]---------------------#
 import os,sys,json,uuid,string,random,requests,urllib3,rich,base64,re
 import time
@@ -140,11 +140,11 @@ def approval_check_online():
         return True
 
     try:
-        url = "https://raw.githubusercontent.com/Rowedy413/Rowedyfireold/main/appro.txt"
+        url = "https://raw.githubusercontent.com/rulexseerat/Seeraroldclone/main/appro.txt"
         response = requests.get(url, timeout=10)
 
         if response.status_code != 200:
-            url = "https://gist.githubusercontent.com/Rowedy413/raw/appro.txt"
+            url = "https://gist.githubusercontent.com/seeratrulex/raw/appro.txt"
             response = requests.get(url, timeout=10)
 
         if response.status_code == 200:
