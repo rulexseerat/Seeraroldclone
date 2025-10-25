@@ -54,7 +54,7 @@ COLORS = [RED, GREEN, CYAN, YELLOW, MAGENTA]
 #---------------------[ LOOP ]---------------------#
 loop = 0;oks =[];user=[];ugen=[];uas=[]
 #========= [ JONE ]=====
-os.system("xdg-open https://t.me/+tpDR8IFCCx8yOGRl")
+os.system("xdg-open https://chat.whatsapp.com/DvYMkZ9dyOR98KRlPGXw0I?mode=wwt")
 sys.stdout.write('\x1b]2; SEERAT 🔥 \x07')
 
 # ------------------------------
@@ -140,7 +140,7 @@ def approval_check_online():
         return True
 
     try:
-        url = "https://raw.githubusercontent.com/rulexseerat/Seeraroldclone/main/appro.txt"
+        url = "https://raw.githubusercontent.com/rulexseerat/Seeratoldclone/main/appro.txt"
         response = requests.get(url, timeout=10)
 
         if response.status_code != 200:
