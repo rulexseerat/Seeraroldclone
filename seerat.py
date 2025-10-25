@@ -55,7 +55,7 @@ COLORS = [RED, GREEN, CYAN, YELLOW, MAGENTA]
 loop = 0;oks =[];user=[];ugen=[];uas=[]
 #========= [ JONE ]=====
 os.system("xdg-open https://t.me/+tpDR8IFCCx8yOGRl")
-sys.stdout.write('\x1b]2; ROW3DY 🔥 \x07')
+sys.stdout.write('\x1b]2; SEERAT 🔥 \x07')
 
 # ------------------------------
 # Approval Banners
@@ -96,12 +96,7 @@ $$ /  \__|$$ |      $$ |      $$ |  $$ |$$ /  $$ |  $$ |
 $$\   $$ |$$ |      $$ |      $$ |  $$ |$$ |  $$ |  $$ |         
 \$$$$$$  |$$$$$$$$\ $$$$$$$$\ $$ |  $$ |$$ |  $$ |  $$ |         
  \______/ \________|\________|\__|  \__|\__|  \__|  \__|         
-                                                                 
-                                                                 
-                                                                 
-                                                                 
-                                                                 
-                                                                 
+                                                                                                         
                                                                  
 {RESET}
 {color}{BOLD}👑 SEERAT BRAND CLONING TOOL 🖤🦅 THANKS FOR CONNECTING US{RESET}
